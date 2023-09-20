@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LocalWifiHttp</string>
+    <string name="On_button">button</string>
+    <string name="On_button2">button</string>
+</resources>
